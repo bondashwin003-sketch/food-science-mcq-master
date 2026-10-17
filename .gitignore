@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+
+# Private study data
+*.db
+*.sqlite
+*.sqlite3
+*.pdf
+
+# Local imports
+uploads/
+data/
